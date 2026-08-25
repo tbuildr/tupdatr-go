@@ -1,0 +1,15 @@
+# Binary
+tu
+
+# Go build/test artifacts
+*.test
+*.out
+
+# Go workspace files (if you ever use one)
+go.work
+go.work.sum
+
+# Editor/OS cruft
+.vscode/
+*.swp
+.DS_Store
