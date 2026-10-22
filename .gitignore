@@ -13,3 +13,8 @@ go.work.sum
 .vscode/
 *.swp
 .DS_Store
+
+# devenv / direnv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
